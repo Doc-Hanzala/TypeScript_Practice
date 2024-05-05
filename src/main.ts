@@ -3,7 +3,7 @@ import typescriptLogo from "./typescript.svg";
 import viteLogo from "/vite.svg";
 import { setupCounter } from "./counter.ts";
 
-import "./tutorial/2-union-type.ts";
+import "./tutorial/3-arrays.ts";
 
 document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
   <div>
