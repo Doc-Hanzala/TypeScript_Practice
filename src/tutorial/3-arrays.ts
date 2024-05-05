@@ -24,17 +24,17 @@ let array: (string | number)[] = ["hanzala", 23, "wosqa"];
 // challenge 1
 
 let tempInFsd: number[] = [23, 45, 12, 43];
-tempInFsd = ["hanzala"];
+// tempInFsd = ["hanzala"];
 console.log(tempInFsd);
 
 // challenge 2
 
 let colors: string[] = ["red", "green", "yellow"];
-colors.push(false);
+// colors.push(false);
 console.log(colors);
 
 // challenge
 
 let mixedTypeArr: (number | string)[] = ["hanzala", "wosqa", 23, 43];
-mixedTypeArr.push(false);
+// mixedTypeArr.push(false);
 console.log(mixedTypeArr);
