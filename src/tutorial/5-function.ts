@@ -30,7 +30,7 @@ Write a new function that checks if a name is in your array. This function shoul
 Use this function to check if various names are in your array and log the results.
 */
 
-let names = ['hanzala','ikrama','wosqa']
+let names:string[] = ['hanzala','ikrama','wosqa']
 
 function checkName(name:string):boolean{
     return names.includes(name)
